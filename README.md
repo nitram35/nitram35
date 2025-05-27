@@ -3,8 +3,8 @@
 <p>Welcome to my page!<br>
 Hi, I'm Martin from 
 <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13" alt="France flag"> 
-<b>France</b> — I recently graduated with an Engineering degree in Computer and Information Systems from 
-<a href="https://www.utt.fr" target="_blank" style="text-decoration: none; color: #0073e6;"><b>UTT</b></a> 
+<b>France</b> — I graduated in 2025 with an Engineering degree in 
+<a href="https://www.utt.fr" target="_blank" style="text-decoration: none; color: #0073e6;"><b>Computer and Information Systems from UTT</b></a> 
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Logo_UTT_2018.svg/1200px-Logo_UTT_2018.svg.png" alt="UTT Logo" width="60" style="vertical-align: middle;">.
 <br><br>
 I gained hands-on experience in Data Engineering during my time at <b>L'Oréal</b>.
@@ -24,13 +24,25 @@ I'm passionate about building robust data solutions and have a strong interest i
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="ETL" src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Power BI" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=white" />
+  <img alt="Looker" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=white)" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-F2C811?style=flat-square&logo=tableau&logoColor=black" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="YAML" src="https://img.shields.io/badge/-YAML-%23ffffff?style=flat-square&logo=yaml&logoColor=151515" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white" />
   <img alt="Google Gemini API" src="https://img.shields.io/badge/-Google%20Gemini%20API-886FBF?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka" />
+  <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+  <img alt="Apache Hive" src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-web-services&logoColor=white" />
+  <img alt="Google BigQuery" src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=flat_square&logo=Google-BigQuery&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
