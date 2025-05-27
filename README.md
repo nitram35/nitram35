@@ -27,7 +27,7 @@ I'm passionate about building robust data solutions and have a strong interest i
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Power BI" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=white" />
-  <img alt="Looker" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=white)" />
+  <img alt="Looker" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-F2C811?style=flat-square&logo=tableau&logoColor=black" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -53,10 +53,6 @@ I'm passionate about building robust data solutions and have a strong interest i
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
-<h3>Some Stats...</h3>
-<p>
-<img alt="Stats1" src="https://github-readme-stats.vercel.app/api?username=nitram35&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/nitram35" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -66,4 +62,4 @@ I'm passionate about building robust data solutions and have a strong interest i
 ---
 
 <p align="center">This <i>README</i> file is generated <b>every day at 08:00 UTC</b>!</br>Last refresh: </p>
-<p align="center"><img src="https://github.com/nitram35/nitram35/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/nitram35/nitram35?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/nitram35/nitram35?style=flat-square&labelColor=343b41"/></p>
+<p align="center"><img src="https://github.com/nitram35/nitram35/workflows/README%20build/badge.svg" />
