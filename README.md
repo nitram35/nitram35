@@ -52,6 +52,11 @@ I'm passionate about building robust data solutions and have a strong interest i
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
+
+<h3>Some Stats...</h3>
+<p>
+<img alt="Stats1" src="https://github-readme-stats.vercel.app/api?username=nitram35&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</p>
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/nitram35" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
