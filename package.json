@@ -1,0 +1,26 @@
+{
+  "name": "nitram35",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitram35/nitram35.git"
+  },
+  "keywords": [
+    "Readme",
+    "Profile"
+  ],
+  "author": "nitram35",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitram35/nitram35/issues"
+  },
+  "homepage": "https://github.com/nitram35/nitram35#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
