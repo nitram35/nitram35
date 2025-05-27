@@ -3,8 +3,8 @@
 <p>Welcome to my page!<br>
 Hi, I'm Martin from 
 <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13" alt="France flag"> 
-<b>France</b> — I graduated in 2025 with an Engineering degree in 
-<a href="https://www.utt.fr" target="_blank" style="text-decoration: none; color: #0073e6;"><b>Computer and Information Systems from UTT</b></a> 
+<b>France</b> — I graduated in 2025 with an Engineering degree in Computer and Information Systems from
+<a href="https://www.utt.fr" target="_blank" style="text-decoration: none; color: #0073e6;"><b>UTT</b></a> 
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Logo_UTT_2018.svg/1200px-Logo_UTT_2018.svg.png" alt="UTT Logo" width="60" style="vertical-align: middle;">.
 <br><br>
 I gained hands-on experience in Data Engineering during my time at <b>L'Oréal</b>.
